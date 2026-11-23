@@ -10,6 +10,7 @@
 /home/kee/Desktop/Assignments/Object Oriented Programming/cs213-g2-final/src/main/java/clinic/model/Room.java
 /home/kee/Desktop/Assignments/Object Oriented Programming/cs213-g2-final/src/main/java/clinic/model/Specialist.java
 /home/kee/Desktop/Assignments/Object Oriented Programming/cs213-g2-final/src/main/java/clinic/model/Staff.java
+/home/kee/Desktop/Assignments/Object Oriented Programming/cs213-g2-final/src/main/java/clinic/model/TriageAssessment.java
 /home/kee/Desktop/Assignments/Object Oriented Programming/cs213-g2-final/src/main/java/clinic/model/Visit.java
 /home/kee/Desktop/Assignments/Object Oriented Programming/cs213-g2-final/src/main/java/clinic/model/enums/AppointmentStatus.java
 /home/kee/Desktop/Assignments/Object Oriented Programming/cs213-g2-final/src/main/java/clinic/model/enums/DegreeOfAid.java

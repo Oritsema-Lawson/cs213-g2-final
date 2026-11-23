@@ -1,7 +1,7 @@
-package src.clinic.model;
+package clinic.model;
 
 import java.util.Date;
-import src.clinic.model.enums.DegreeOfAid;
+import  clinic.model.enums.DegreeOfAid;
 
 public class Doctor extends Staff {
     private Room office;

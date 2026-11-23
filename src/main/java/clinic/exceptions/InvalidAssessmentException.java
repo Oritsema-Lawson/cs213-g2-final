@@ -1,4 +1,4 @@
-package src.clinic.exceptions;
+package clinic.exceptions;
 
 public class InvalidAssessmentException extends Exception {
     public InvalidAssessmentException(String m) {

@@ -1,4 +1,4 @@
-package src.clinic.exceptions;
+package clinic.exceptions;
 
 public class SchedulingClashException extends Exception {
     SchedulingClashException(String m) {

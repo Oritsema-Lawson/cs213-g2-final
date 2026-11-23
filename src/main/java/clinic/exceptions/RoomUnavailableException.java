@@ -1,4 +1,4 @@
-package src.clinic.exceptions;
+package clinic.exceptions;
 
 public class RoomUnavailableException extends Exception {
     public RoomUnavailableException(String m) {

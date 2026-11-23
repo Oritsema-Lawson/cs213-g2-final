@@ -1,7 +1,7 @@
-package src.clinic.model;
+package  clinic.model;
 
-import java.util.Date;
 import java.time.LocalDateTime;
+import java.util.Date;
 
 public class Patient extends Person {
 

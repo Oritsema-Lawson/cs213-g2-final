@@ -1,3 +1,3 @@
-package src.clinic.service;
+package clinic.service;
 
 public class TriageAssessor{}

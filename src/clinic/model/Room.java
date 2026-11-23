@@ -1,6 +1,6 @@
-package src.clinic.model;
+package  clinic.model;
 
-import src.clinic.model.enums.RoomType;
+import  clinic.model.enums.RoomType;
 
 public class Room {
     private String roomNum;

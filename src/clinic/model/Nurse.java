@@ -1,9 +1,8 @@
-package src.clinic.model;
+package  clinic.model;
 
 import java.util.Date;
-
-import src.clinic.model.enums.DegreeOfAid;
-import src.clinic.model.enums.RoomType;
+import  clinic.model.enums.DegreeOfAid;
+import  clinic.model.enums.RoomType;
 
 public class Nurse extends Staff {
     private boolean isTriageNurse;

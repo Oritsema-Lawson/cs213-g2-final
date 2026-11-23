@@ -1,7 +1,7 @@
-package src.clinic.model;
-import java.util.Date;
+package  clinic.model;
 import java.time.LocalDateTime;
-import src.clinic.model.enums.AppointmentStatus;
+
+import  clinic.model.enums.AppointmentStatus;
 
 public class Appointment{
     private String appointmentId;

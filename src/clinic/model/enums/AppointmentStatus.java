@@ -1,4 +1,4 @@
-package src.clinic.model.enums;
+package  clinic.model.enums;
 
 public enum AppointmentStatus{
     BOOKED,

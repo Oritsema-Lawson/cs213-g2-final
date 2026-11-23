@@ -1,4 +1,4 @@
-package src.clinic.model;
+package  clinic.model;
 
 import java.util.Date;
 
